@@ -8,7 +8,8 @@ Widows標準のWindowsIMEで使用することを想定。そのためファイ�
 なお、Windows環境下でGoogleIMEでの動作も確認済み。  
 
 ## 使い方
-- このレポジトリから *MaritimeTerms.txt* を[ダウンロード](https://github.com/knkm3001/maritime-terms/archive/master.zip)  
+- このレポジトリを[ダウンロード](https://github.com/knkm3001/maritime-terms/archive/master.zip)  
+- ダウンロードしたファイルの中に *MaritimeTerms.txt* があることを確認  
 - windowsのデスクトップ画面右下の以下の部分を右クリック  
 ![image](https://user-images.githubusercontent.com/54818379/86407566-40968280-bcf0-11ea-94be-b90e86c745be.png)
 - *単語の追加*　をクリック
